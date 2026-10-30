@@ -1,10 +1,10 @@
 # vansh
-age :19
+#age :19
 email:vanshdobariy@gmail.com
 university: Reva university 
 diploma : Acharya university 
 school: p p savani surat gujarat
- Skill I have : 
+# Skill I have : 
    -DBMS
    -python 
    -My sql
