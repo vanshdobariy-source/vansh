@@ -2,7 +2,7 @@
 age :19
 email:vanshdobariy@gmail.com
 university: Reva university 
-diploma : Acharya univcersity 
+diploma : Acharya university 
 school: p p savani surat gujarat
  Skill I have : 
    -DBMS
