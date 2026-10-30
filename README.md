@@ -4,10 +4,11 @@ email:vanshdobariy@gmail.com
 university: Reva university 
 diploma : Acharya university 
 school: p p savani surat gujarat
-# Skill : 
+# Skill
    -DBMS
    -python 
    -My sql
-  contact:
+   -css
+# contact:
    -Phone :7069899000
    -Gitb: https://github.com/
